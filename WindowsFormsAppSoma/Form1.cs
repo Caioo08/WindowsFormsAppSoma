@@ -30,6 +30,8 @@ namespace WindowsFormsAppSoma
         {
             txt_um.Text = "";
             txt_dois.Text = "";
+
+            lbl_resultado.Text = "";
         }
 
         private void btn_fechar_Click(object sender, EventArgs e)
